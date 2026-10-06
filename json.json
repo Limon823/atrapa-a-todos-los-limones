@@ -1,12 +1,12 @@
 [
-{
-"name":"val",
-"edad":24,
-"color":"pink"   
-},
-{
-"nombre":"Rafa",
-"edad":25,
-"color":"libertad"
-}
+  {
+    "nombre": "val",
+    "edad": 24,
+    "color": "pink"   
+  },
+  {
+    "nombre": "Rafa",
+    "edad": 25,
+    "color": "libertad"
+  }
 ]
